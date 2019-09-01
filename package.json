@@ -1,0 +1,17 @@
+{
+  "name": "modern-portfolio",
+  "version": "1.0.0",
+  "description": "A modern and simple portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Rohin Vaidya",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
